@@ -1,4 +1,4 @@
 # dev
 prueba
-##Descripcion
+## Descripcion
 Éste es una prueba de gitHub
